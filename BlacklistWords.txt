@@ -1,3 +1,4 @@
+//add equalsIgnoreCase
 bitch
 nigger
 nigga
@@ -7,3 +8,9 @@ schwanz
 pimmel
 fuck
 arsch
+idiot
+hure
+jude
+hurensohn
+islamist
+
