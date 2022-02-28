@@ -1,0 +1,9 @@
+tenor.com
+cdn.discordapp.com
+support.discordapp.com
+cribemc.eu
+cribemc.de
+youtube.com
+spigotmc.org
+bukkit.org
+dev.bukkit.org
