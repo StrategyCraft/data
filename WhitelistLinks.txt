@@ -32,6 +32,7 @@ md-5.net
 mc-market.com
 minecraft.net
 mojang.com
+mein-host.com
 microsoft.com
 namemc.com
 namelessmc.com
